@@ -16,4 +16,3 @@
   <li>Java</li> 
   <li>React Native</li> 
 </ul>
-![Liz's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodingCashew&show_icons=true&theme=dark)
