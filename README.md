@@ -9,9 +9,3 @@
 * <a href="https://github.com/CodingCashew/coding-muse-coffee" rel="noreferrer" target="_blank">Coding Muse Coffee</a>
 * <a href="https://github.com/CodingCashew/Snake" rel="noreferrer" target="_blank">Snake</a>
 * <a href="https://github.com/CodingCashew/swedish-flashcards" rel="noreferrer" target="_blank">Swedish Flashcards</a>
-
-### 💪🏾 I'm currently working on...
-<ul>
-  <li>Java</li> 
-  <li>React Native</li> 
-</ul>
